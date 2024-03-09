@@ -154,6 +154,12 @@
       </dict>
       <dict>
          <key>Label</key>
+         <string>Discord</string>
+         <key>Scheme</key>
+         <string>discord://</string>
+      </dict>
+      <dict>
+         <key>Label</key>
          <string>Deezer</string>
          <key>Scheme</key>
          <string>deezer://</string>
@@ -644,6 +650,12 @@
          <key>Scheme</key>
          <string>excel://</string>
       </dict>
+       <dict>
+         <key>Label</key>
+         <string>Miro</string>
+         <key>Scheme</key>
+         <string>miro://</string>
+      </dict>
       <dict>
          <key>Label</key>
          <string>MoviePass</string>
@@ -680,6 +692,12 @@
          <key>Scheme</key>
          <string>nordvpn://</string>
       </dict>
+      <dict>
+         <key>Label</key>
+         <string>Notion</string>
+         <key>Scheme</key>
+         <string>notion://</string>
+         <str
       <dict>
          <key>Label</key>
          <string>Opera Mini</string>
