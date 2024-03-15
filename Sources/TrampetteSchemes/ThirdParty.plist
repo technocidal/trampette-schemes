@@ -697,6 +697,7 @@
          <string>Notion</string>
          <key>Scheme</key>
          <string>notion://</string>
+      </dict>
       <dict>
          <key>Label</key>
          <string>Opera Mini</string>
