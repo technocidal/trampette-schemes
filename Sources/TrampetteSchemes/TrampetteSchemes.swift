@@ -2,8 +2,8 @@ import Foundation
 import OSLog
 
 public struct Scheme: Codable {
-    let label: String
-    let `protocol`: String
+    public let label: String
+    public let `protocol`: String
 
     enum CodingKeys: String, CodingKey {
         case label = "Label"
@@ -17,8 +17,8 @@ public enum Category: String, CaseIterable {
 }
 
 public struct AppScheme {
-    let scheme: Scheme
-    let category: Category
+    public let scheme: Scheme
+    public let category: Category
 }
 
 @globalActor
