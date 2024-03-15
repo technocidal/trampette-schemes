@@ -1,7 +1,7 @@
 import Foundation
 import OSLog
 
-public struct Scheme: Codable {
+public struct Scheme: Codable, Hashable, Equatable {
     public let label: String
     public let `protocol`: String
 
@@ -16,7 +16,7 @@ public enum Category: String, CaseIterable {
     case thirdParty
 }
 
-public struct AppScheme {
+public struct AppScheme: Hashable, Equatable {
     public let scheme: Scheme
     public let category: Category
 }
