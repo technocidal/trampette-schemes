@@ -80,6 +80,12 @@
          <key>Scheme</key>
          <string>bofa://</string>
       </dict>
+			<dict>
+         <key>Label</key>
+         <string>Beeper Cloud</string>
+         <key>Scheme</key>
+         <string>riot://</string>
+      </dict>
       <dict>
          <key>Label</key>
          <string>Best Buy</string>
