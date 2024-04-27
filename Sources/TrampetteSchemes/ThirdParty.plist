@@ -160,6 +160,12 @@
       </dict>
       <dict>
          <key>Label</key>
+         <string>DB Navigator</string>
+         <key>Scheme</key>
+         <string>dbnavigator://</string>
+      </dict>
+      <dict>
+         <key>Label</key>
          <string>Discord</string>
          <key>Scheme</key>
          <string>discord://</string>
