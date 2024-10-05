@@ -234,7 +234,7 @@
 		<key>Label</key>
 		<string>Reminders</string>
 		<key>Scheme</key>
-		<string>x-apple-reminder://</string>
+		<string>x-apple-reminderkit://</string>
 	</dict>
 	<dict>
 		<key>Label</key>
