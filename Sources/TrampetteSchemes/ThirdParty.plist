@@ -148,9 +148,15 @@
       </dict>
       <dict>
          <key>Label</key>
-         <string>Clue Period &amp; Cycle Tracker</string>
+         <string>Clue</string>
          <key>Scheme</key>
          <string>clue://</string>
+      </dict>
+      <dict>
+         <key>Label</key>
+         <string>Craft</string>
+         <key>Scheme</key>
+         <string>craftdocs://</string>
       </dict>
       <dict>
          <key>Label</key>
