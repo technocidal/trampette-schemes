@@ -82,6 +82,12 @@
       </dict>
 			<dict>
          <key>Label</key>
+         <string>Beeper</string>
+         <key>Scheme</key>
+         <string>beeper://</string>
+      </dict>
+			<dict>
+         <key>Label</key>
          <string>Beeper Cloud</string>
          <key>Scheme</key>
          <string>riot://</string>
