@@ -728,6 +728,12 @@
          <key>Scheme</key>
          <string>opera-://</string>
       </dict>
+			<dict>
+         <key>Label</key>
+         <string>Organic Maps</string>
+         <key>Scheme</key>
+         <string>om://</string>
+      </dict>
       <dict>
          <key>Label</key>
          <string>PayPal</string>
