@@ -536,6 +536,12 @@
          <key>Scheme</key>
          <string>hyperlapse://</string>
       </dict>
+			<dict>
+         <key>Label</key>
+         <string>Ice Cubes for Mastodon</string>
+         <key>Scheme</key>
+         <string>icecubesapp://</string>
+      </dict>
       <dict>
          <key>Label</key>
          <string>IMDb</string>
