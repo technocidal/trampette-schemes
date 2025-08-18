@@ -592,6 +592,12 @@
       </dict>
       <dict>
          <key>Label</key>
+         <string>Le Chat</string>
+         <key>Scheme</key>
+         <string>lechat://</string>
+      </dict>
+      <dict>
+         <key>Label</key>
          <string>Memrise</string>
          <key>Scheme</key>
          <string>memrise://</string>
