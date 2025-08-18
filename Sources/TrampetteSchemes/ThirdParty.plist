@@ -730,6 +730,12 @@
       </dict>
       <dict>
          <key>Label</key>
+         <string>Obsidian</string>
+         <key>Scheme</key>
+         <string>obsidian://</string>
+      </dict>
+      <dict>
+         <key>Label</key>
          <string>Opera Mini</string>
          <key>Scheme</key>
          <string>opera-://</string>
